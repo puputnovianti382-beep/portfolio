@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Raspberry Pi Trainer Kit for Embedded System and IoT Education",
+        "year": "2026",
+        "fund": "Diploma Final Project",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Project Team Member",
+        "description": "Collaborated in the development of a Raspberry Pi Trainer Kit as an educational platform for Embedded Systems and Internet of Things (IoT) learning. The project integrates sensors, actuators, camera modules, motor control systems, and wireless communication to support hands-on experiments in programming, robotics, computer vision, and IoT applications. Contributed to hardware integration, system testing, documentation, and trainer kit development.",
+        "image": "images/project1.png",
+        "link": "#"
+    },
+    {
+        "title": "IoT-Based Early Warning System (EWS)",
+        "year": "2025",
+        "fund": "Industrial Internship Project",
+        "partner": "PT Indomaker Indonesia Mandiri",
+        "role": "Project Team Member",
+        "description": "Contributed to the development of an IoT-Based Early Warning System (EWS) designed for real-time environmental monitoring and disaster risk mitigation. The system integrates solar power, wireless communication, embedded controllers, sensors, and a touchscreen monitoring interface to provide continuous data acquisition, remote monitoring, and early warning notifications. Participated in hardware assembly, system integration, testing, troubleshooting, and technical documentation during the project development process.",
+        "image": "images/project2.png",
+        "link": "#"
+    },
+    {
+        "title": "PID-Based Smart Room Temperature Control System with MATLAB GUI",
+        "year": "2025",
+        "fund": "Academic Project",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Project Team Member",
+        "description": "Developed a PID-based smart room temperature control system using heater and fan actuators with real-time monitoring and control through a MATLAB Graphical User Interface (GUI). The system continuously acquires temperature data from sensors, processes the control algorithm, and automatically adjusts actuator outputs to maintain the desired temperature setpoint. Contributed to hardware integration, MATLAB GUI development, sensor interfacing, system testing, and performance evaluation.",
+        "image": "images/project3.png",
+        "link": "#"
+    },
+    {
+        "title": "Arduino-Based Egg Incubator with Automatic Temperature Control",
+        "year": "2025",
+        "fund": "Academic Project",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Project Team Member",
+        "description": "Developed an Arduino-based egg incubator system capable of automatically maintaining optimal incubation temperatures. The system utilizes temperature sensors, heating elements, and cooling mechanisms to regulate environmental conditions inside the incubator. Contributed to hardware assembly, sensor integration, control system implementation, testing, and performance evaluation to improve incubation stability and hatchability.",
+        "image": "images/project4.png",
+        "link": "#"
+    },
+    {
+        "title": "Ultrasonic Sensor-Based Object Detection Radar System",
+        "year": "2024",
+        "fund": "Academic Project",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Project Team Member",
+        "description": "Designed and developed an object detection radar system using an ultrasonic sensor and servo motor to perform real-time scanning of surrounding objects. The system measures object distance and visualizes detection results on a graphical display, simulating basic radar functionality. Contributed to hardware assembly, sensor interfacing, Arduino programming, testing, and system integration.",
+        "image": "images/project5.png",
+        "link": "#"
+    },
+    {
+        "title": "Smart Kitchen Gas Leak Detection System with PID-Controlled Ventilation",
+        "year": "2025",
+        "fund": "Academic Project",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Project Team Member",
+        "description": "Designed and developed a smart kitchen safety system capable of detecting gas leaks using gas sensors and automatically activating an alarm system. A PID-controlled ventilation fan was implemented to regulate airflow and reduce hazardous gas concentrations efficiently. The system provides real-time monitoring, early warning notifications, and automatic ventilation control to improve kitchen safety. Contributed to sensor integration, PID control implementation, hardware assembly, testing, and system evaluation.",
+        "image": "images/project6.png",
+        "link": "#"
+    }
+]

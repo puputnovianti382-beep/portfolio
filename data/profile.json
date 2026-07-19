@@ -1,0 +1,73 @@
+{
+    "name": "Puput Novianti - Electronics Engineering Fresh Graduate",
+    "description": "Fresh Graduate in Electronics Engineering from Politeknik Negeri Semarang with experience in electronics projects, PCB assembly, hardware troubleshooting, and microcontroller programming. Passionate about electronics, embedded systems, IoT technology, and hardware development. Adaptable, detail-oriented, and able to work effectively both independently and in team environments. Experienced in supporting educational technology projects, creating technical documentation, and assisting hardware testing during internships.",
+    "profileImage": "images/profile.jpg",
+    "email": "puputnovianti382@gmail.com",
+    "phone": "+62 81225040340",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/puput-novianti-6aa9873a8/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/puputnovianti382-beep"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://x.com/pptnovianti"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/cv.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+        {
+            "name": "PCB Assembly & Soldering",
+            "icon": "fas fa-microchip",
+            "level": 85
+        },
+        {
+            "name": "Electronic Circuit Design",
+            "icon": "fas fa-bolt",
+            "level": 80
+        },
+        {
+            "name": "Internet of Things (IoT)",
+            "icon": "fas fa-wifi",
+            "level": 80
+        },
+        {
+            "name": "Arduino & Microcontroller Programming",
+            "icon": "fas fa-code",
+            "level": 85
+        },
+        {
+            "name": "Hardware Troubleshooting",
+            "icon": "fas fa-screwdriver-wrench",
+            "level": 85
+        },
+        {
+            "name": "KiCad, Proteus, Wokwi & Tinkercad",
+            "icon": "fas fa-laptop-code",
+            "level": 85
+        },
+        {
+            "name": "Technical Documentation",
+            "icon": "fas fa-file-lines",
+            "level": 80
+        },
+        {
+            "name": "Communication & Teamwork",
+            "icon": "fas fa-users",
+            "level": 85
+        },
+        {
+            "name": "English Proficiency (TOEIC 755)",
+            "icon": "fas fa-language",
+            "level": 80
+        }
+    ]
+}

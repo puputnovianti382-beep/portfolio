@@ -1,0 +1,16 @@
+[
+    {
+        "company": "PT Indomaker Indonesia Mandiri",
+        "logo": "images/logo-im.jpg",
+        "position": "Electronics Engineering Intern",
+        "year": "2025",
+        "description": "Supported the development of electronic trainer kits for educational and project purposes. Performed PCB assembly, hardware testing, troubleshooting, and technical documentation while collaborating with the engineering team in product development activities."
+    },
+    {
+        "company": "Universitas STEKOM",
+        "logo": "images/stekom-logo.png",
+        "position": "Technical Support Intern",
+        "year": "2022",
+        "description": "Assisted in monitoring learning activities, preparing educational materials, and maintaining computer hardware in laboratory environments. Supported technical and administrative operations while developing problem-solving and teamwork skills."
+    }
+]

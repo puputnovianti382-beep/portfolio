@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "major": "Diploma Degree (D3) in Electronics Engineering",
+        "year": "2023 - 2026",
+        "description": "Graduated with a Diploma Degree (D3) in Electronics Engineering with a cumulative GPA of 3.52 and a final semester GPA of 4.00. Developed expertise in electronics systems, PCB assembly, microcontroller programming, embedded systems, and IoT technology through laboratory activities, academic projects, and industry internships. Completed various projects involving Arduino, ESP, Raspberry Pi, PID control systems, and electronic hardware troubleshooting."
+    },
+    {
+        "university": "SMK Texmaco Semarang",
+        "logo": "images/txmaco-logo.png",
+        "major": "Industrial Electronics Engineering",
+        "year": "2020 - 2023",
+        "description": "Studied Industrial Electronics Engineering with a focus on electronic circuits, electrical systems, instrumentation, and industrial automation. Gained practical experience through laboratory activities, electronic assembly, troubleshooting, and technical projects that built a strong foundation in electronics and problem-solving."
+    }
+]
